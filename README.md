@@ -1,3 +1,4 @@
 # discordbot
 Changelog:
-Vebliot V1.0.0
+v1.0.1
+bug fix
